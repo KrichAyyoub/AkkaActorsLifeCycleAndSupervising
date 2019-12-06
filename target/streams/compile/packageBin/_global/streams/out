@@ -1,0 +1,37 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/krich/Sources/github.com/KrichAyyoub/AkkaSupervisionExample/target/scala-2.13/helloscala_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Sources/github.com/KrichAyyoub/AkkaSupervisionExample/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AkkaSupervisionExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Sources/github.com/KrichAyyoub/AkkaSupervisionExample/target/scala-2.13/classes/AkkaSupervisionExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AkkaSupervisionExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Sources/github.com/KrichAyyoub/AkkaSupervisionExample/target/scala-2.13/classes/AkkaSupervisionExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AkkaSupervisionExample$CreatChild$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Sources/github.com/KrichAyyoub/AkkaSupervisionExample/target/scala-2.13/classes/AkkaSupervisionExample$CreatChild$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AkkaSupervisionExample$BadStuf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Sources/github.com/KrichAyyoub/AkkaSupervisionExample/target/scala-2.13/classes/AkkaSupervisionExample$BadStuf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AkkaSupervisionExample$DevideNumber.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Sources/github.com/KrichAyyoub/AkkaSupervisionExample/target/scala-2.13/classes/AkkaSupervisionExample$DevideNumber.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AkkaSupervisionExample$ChildActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Sources/github.com/KrichAyyoub/AkkaSupervisionExample/target/scala-2.13/classes/AkkaSupervisionExample$ChildActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AkkaSupervisionExample$PrintSignal$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Sources/github.com/KrichAyyoub/AkkaSupervisionExample/target/scala-2.13/classes/AkkaSupervisionExample$PrintSignal$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AkkaSupervisionExample$SignalChild$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Sources/github.com/KrichAyyoub/AkkaSupervisionExample/target/scala-2.13/classes/AkkaSupervisionExample$SignalChild$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AkkaSupervisionExample$DevideNumber$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Sources/github.com/KrichAyyoub/AkkaSupervisionExample/target/scala-2.13/classes/AkkaSupervisionExample$DevideNumber$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AkkaSupervisionExample$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Sources/github.com/KrichAyyoub/AkkaSupervisionExample/target/scala-2.13/classes/AkkaSupervisionExample$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AkkaSupervisionExample$ChildActor$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Sources/github.com/KrichAyyoub/AkkaSupervisionExample/target/scala-2.13/classes/AkkaSupervisionExample$ChildActor$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AkkaSupervisionExample$ParentActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Sources/github.com/KrichAyyoub/AkkaSupervisionExample/target/scala-2.13/classes/AkkaSupervisionExample$ParentActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AkkaSupervisionExample$SignalChild.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Sources/github.com/KrichAyyoub/AkkaSupervisionExample/target/scala-2.13/classes/AkkaSupervisionExample$SignalChild.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AkkaSupervisionExample$ParentActor$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Sources/github.com/KrichAyyoub/AkkaSupervisionExample/target/scala-2.13/classes/AkkaSupervisionExample$ParentActor$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AkkaSupervisionExample$PrintSignal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Sources/github.com/KrichAyyoub/AkkaSupervisionExample/target/scala-2.13/classes/AkkaSupervisionExample$PrintSignal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AkkaSupervisionExample$ParentActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/krich/Sources/github.com/KrichAyyoub/AkkaSupervisionExample/target/scala-2.13/classes/AkkaSupervisionExample$ParentActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

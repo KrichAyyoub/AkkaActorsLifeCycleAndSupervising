@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.1":{"hashes":[["/home/krich/Sources/github.com/KrichAyyoub/AkkaSupervisionExample/src/main/scala/Main.scala","10da3c6ce31e9bd0f35842f9fb566f0d90337fd4"]],"lastModifiedTimes":[]}}]
